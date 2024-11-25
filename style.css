@@ -1,7 +1,7 @@
 body {
     font-family: "VT323", monospace;
     background-color: #06141b;
-    background-image: url("/Users/semakaraca/Desktop/portfolio2025/img/galaxy.jpg");
+    background-image: url("galaxy.jpg");
     background-size: cover;
     
   }
